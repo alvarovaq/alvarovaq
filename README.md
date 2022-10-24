@@ -40,7 +40,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="40"/>
   </a>
   
-<h3 align="left">Sigueme:</h3>
+<h3 align="left">Sígueme:</h3>
 <p align="left">
 <a href="https://twitter.com/AlvaroVaqGim" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="AlvaroVaqGim" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alvaro-vaquero-gimenez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alvaro-vaquero-gimenez" height="30" width="40" /></a>
