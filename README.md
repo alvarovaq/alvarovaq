@@ -1,7 +1,10 @@
-### Hola a todos 👋
+<h1 align="center">Hola 👋, Yo soy Álvaro</h1>
+<h3 align="center">Ingeniero de Telecomunicaciones</h3>
 
-Mi nombre es Álvaro Vaquero, soy estudiante de ingeniería de tecnologías de telecomunicación en la Universidad de Valladolid.
-Uno de mis hobbis aparte del futbol sala es programar, intento aprender muchas cosas y hacer mis propios proyectos.
+- 🧠 Estudio Ingeniería de Tecnologías de Telecomunicación
+- 💻 Apasionado por la programación
+- 🌱 Aprender cosas nuevas es mi adrenalina
+- 📫 Contacta con migo: alvaro.vaquero.tel@gmail.com
 
 <!--
 **alvarovaq/alvarovaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
