@@ -27,19 +27,25 @@
   <a href="https://angular.io/" target="_blank">
     <img src="https://user-images.githubusercontent.com/113897176/197624663-05dd5730-ae38-47a7-8958-9706167c6bdb.png" alt="Angular" height="40"/>
   </a>
-  <a href="https://developer.android.com" target="_blank">
+  <!--<a href="https://developer.android.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
   </a>
   <a href="https://kotlinlang.org/" target="_blank">
     <img src="https://user-images.githubusercontent.com/113897176/197625771-5ee7ce50-839c-4221-8466-da6d0111c3fd.png" alt="Kotlin"  height="40"/>
-  </a>
+  </a>-->
   <a href="https://flutter.dev/?gclid=CjwKCAjw79iaBhAJEiwAPYwoCOp9cup8zH4TYwV_O86ESJT5UqZouLyRmrXMC2ZgiuXMNaCkCQlbWhoCLUEQAvD_BwE&gclsrc=aw.ds" target="_blank">
-    <img src="https://user-images.githubusercontent.com/113897176/197625118-1c17ed6c-9957-426f-91ae-f78ca1d885f5.png" alt="Flutter"  height="40"/>
+    <img src="https://user-images.githubusercontent.com/113897176/201727714-d5cb316e-f709-46d3-94c9-dee708dfb8e2.png" alt="Flutter"  height="40"/>
   </a>
-    </a> <a href="https://www.mysql.com/" target="_blank">
+  </a> <a href="https://nestjs.com" target="_blank">
+    <img src="https://user-images.githubusercontent.com/113897176/201726772-67884988-77d3-40b7-a6e3-ed4e47f3e78b.png" alt="mysql" height="40"/>
+  </a>
+  </a> <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="40"/>
   </a>
-  
+  </a> <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/113897176/201727415-38bf59f7-3db0-4fe3-814b-e4b85f2e4507.png" alt="mysql" height="40"/>
+  </a>
+
 <h3 align="left">Sígueme:</h3>
 <p align="left">
 <a href="https://twitter.com/AlvaroVaqGim" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="AlvaroVaqGim" height="30" width="40" /></a>
