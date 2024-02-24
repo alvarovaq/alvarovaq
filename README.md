@@ -4,7 +4,6 @@
 - 🎓 Graduado en Ingeniería de Tecnologías de Telecomunicación
 - 👨‍💼 Ingeniero de software
 - 💻 Apasionado por la programación
-- 📖 Aprender cosas nuevas es mi adrenalina
 - 📫 Contacta con migo: alvaro.vaquero.tel@gmail.com
 
 ## Lenguajes
