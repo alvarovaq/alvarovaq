@@ -1,7 +1,8 @@
 <h1 align="center">Hola 👋, Yo soy Álvaro</h1>
 <h3 align="center">Ingeniero de Telecomunicaciones</h3>
 
-- 🎓 Estudio Ingeniería de Tecnologías de Telecomunicación
+- 🎓 Graduado en Ingeniería de Tecnologías de Telecomunicación
+- 👨‍💼 Ingeniero de software
 - 💻 Apasionado por la programación
 - 📖 Aprender cosas nuevas es mi adrenalina
 - 📫 Contacta con migo: alvaro.vaquero.tel@gmail.com
